@@ -1,0 +1,14 @@
+D:\c#proj\BigFileChecker\BigFileChecker\bin\Debug\net9.0\BigFileChecker.exe
+D:\c#proj\BigFileChecker\BigFileChecker\bin\Debug\net9.0\BigFileChecker.deps.json
+D:\c#proj\BigFileChecker\BigFileChecker\bin\Debug\net9.0\BigFileChecker.runtimeconfig.json
+D:\c#proj\BigFileChecker\BigFileChecker\bin\Debug\net9.0\BigFileChecker.dll
+D:\c#proj\BigFileChecker\BigFileChecker\bin\Debug\net9.0\BigFileChecker.pdb
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.AssemblyInfoInputs.cache
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.AssemblyInfo.cs
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.csproj.CoreCompileInputs.cache
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.dll
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\refint\BigFileChecker.dll
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.pdb
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.genruntimeconfig.cache
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\ref\BigFileChecker.dll
