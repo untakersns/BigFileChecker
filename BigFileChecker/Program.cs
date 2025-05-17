@@ -21,7 +21,7 @@ class Program
                 while (true)
                 {
                     string path;
-                    Console.WriteLine("\nBigFileChecker(v1)\n");
+                    Console.WriteLine("\nBigFileChecker(v1.1)\n");
                     Console.WriteLine("Выберите функцию:\n 1.Информация о хранилище\n 2.Анализ конкретных файлов\n 3.Анализ конкретных папок\n");
                     int func = int.Parse(Console.ReadLine());
                     switch (func)
@@ -57,7 +57,7 @@ class Program
                 while (true)
                 {
                     string path;
-                    Console.WriteLine("BigFileChecker(v1)\n");
+                    Console.WriteLine("BigFileChecker(v1.1)\n");
                     Console.WriteLine("Choose function:\n 1.Storage info\n 2.File size analyze\n 3.Folder size analyze\n");
                     int func = int.Parse(Console.ReadLine());
                     switch (func)
