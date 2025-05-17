@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigFileChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35f24cb803eb2eda2b2e9abcdf4796f6d24995b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigFileChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigFileChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

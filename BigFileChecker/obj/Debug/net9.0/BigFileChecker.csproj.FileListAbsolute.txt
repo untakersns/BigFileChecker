@@ -12,3 +12,4 @@ D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\refint\BigFileChecker.d
 D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.pdb
 D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.genruntimeconfig.cache
 D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\ref\BigFileChecker.dll
+D:\c#proj\BigFileChecker\BigFileChecker\obj\Debug\net9.0\BigFileChecker.sourcelink.json
